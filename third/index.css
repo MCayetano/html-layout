@@ -1,0 +1,49 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+.grey {
+    height: 20vh;
+    width: 100vw;
+    background-color: rgb(192, 192, 192);
+    float: left;
+}
+.bluebox {
+    height: 100px;
+    width: 100px;
+    background-color: #4A90E2;
+    margin: 08px 40px 0px;
+}
+
+
+
+.blue {
+    height: 20vh;
+    width: 100vw;
+    background-color: #4A90E2;
+    float: left;
+}
+
+.teal {
+    height: 20vh;
+    width: 100vw;
+    background-color: #50E3C2;
+    float: left;
+}
+
+
+.chartreuse {
+    height: 20vh;
+    width: 100vw;
+    background-color: #B8E986;
+    float: left;
+}
+
+
+.yellow {
+    height: 20vh;
+    width: 100vw;
+    background-color: yellow;
+    float: left;
+}
