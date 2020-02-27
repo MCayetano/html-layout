@@ -1,0 +1,65 @@
+.Outter {
+    height: 30vh;
+    width: 99%;
+    background-color: whitesmoke;
+    border: solid;
+    border-width: 05px;
+    align-content: center;
+}
+
+.rec {
+    height: 70%;
+    width: 04%;
+    background-color: purple;
+    margin: 03% 10px 0px 10px;
+    
+}
+
+.square {
+  height: 150px;
+  width: 400px;
+  display: inline-block;
+  background-color: forestgreen;
+  margin: -150px 750px 100px 100px;   
+}
+
+.circle {
+  height: 165px;
+  width: 160px;
+  background-color: lightblue;
+  border-radius: 50%;
+  display: inline-block;
+  margin: -260px 500px; 
+  float: right;
+}
+
+.second-box {
+    height: 30vh;
+    width: 99%;
+    background-color: whitesmoke;
+    border: dotted;
+    border-width: 05px;
+    align-content: center;
+    margin: 15px -02px ;
+    padding-bottom: 30px;
+}
+
+.in-box {
+    height: 50%;
+    width: 80%;
+    background-color: yellow;
+    margin: 50px 130px 40px;
+    padding: 20px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.square2 {
+    height: 250px;
+    width: 270px;
+    background-color: white;
+    border: solid;
+    border-width: 01px;
+
+  }
