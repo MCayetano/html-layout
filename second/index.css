@@ -47,7 +47,7 @@
 .in-box {
     height: 50%;
     width: 80%;
-    background-color: yellow;
+    background-color: rgb(236, 236, 86);
     margin: 50px 130px 40px;
     padding: 20px;
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
@@ -57,9 +57,19 @@
 
 .square2 {
     height: 250px;
-    width: 270px;
+    width: 500px;
     background-color: white;
     border: solid;
     border-width: 01px;
+    margin: 100px -100px -200px 400px;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  }
 
+  .text {
+    color: purple;
+    margin: 75px;
+    font-size: 50px;
+    text-align: center;
   }
